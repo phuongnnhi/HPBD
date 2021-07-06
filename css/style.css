@@ -18,7 +18,7 @@
     position: absolute;
     display: inline-block;
     color: #fff !important;
-    background-color: #e66771;
+    background-color: #FF8882;
     font-weight: bold;
     font-size: 20px;
     padding:5px;
@@ -53,7 +53,7 @@ header h2 {
   font-size: 80px;
   text-align: center;
 	margin-bottom: 30px;
-  color: #B19CD9;
+  color: #39A6A3;
   text-shadow: -1px 1px #fff,
   				1px 1px #fff,
   				1px -1px #fff,
