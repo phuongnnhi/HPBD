@@ -28,7 +28,7 @@ function firstQuestion(){
 
  // switch button position
  function switchButton() {
-    var audio = new Audio('../sound/duck.mp3');
+    var audio = new Audio('sound/duck.mp3');
     audio.play();
     var leftNo = $('#no').css("left");
     var topNO = $('#no').css("top");
@@ -41,7 +41,7 @@ function firstQuestion(){
 }
 // move random button póition
 function moveButton() {
-    var audio = new Audio('../sound/Swish1.mp3');
+    var audio = new Audio('sound/Swish1.mp3');
     audio.play();
     if (screen.width<=600) {
         var x = Math.random() * 300;
@@ -93,7 +93,7 @@ function textGenerate() {
 
 // show popup
 $('#yes').click(function() {
-    var audio = new Audio('../sound/tick.mp3');
+    var audio = new Audio('sound/tick.mp3');
     audio.play();
     Swal.fire({
         title: 'Món quà trong mơ của chị Linh là',
