@@ -88,7 +88,7 @@ header h4 {
     display: inline-block;
     left: 7%; 
     top: 40vh;
-    font-size: 12px;
+    font-size: 15px;
     padding: 3px;
     -webkit-transition: all 0.1s ease-out;
   }
@@ -97,7 +97,7 @@ header h4 {
     display: inline-block;
     left: 58%; 
     top: 40vh;
-    font-size: 12px;
+    font-size: 15px;
     padding: 3px;
     -webkit-transition: all 0.3s ease-out;
   }
